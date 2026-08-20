@@ -35,7 +35,7 @@ The Archipelago client requires the game to be running without Easy Anti-Cheat.
 
 ## Connecting to an Archipelago World
 
-1. Launch the **7 Days To Die** client through the Archipelago Launcher.
+1. Launch the **7 Days To Die** client through the Archipelago Launcher. Launching the client before the game is highly recommended.
 2. Enter your Archipelago room connection information:
 
    * Room address
