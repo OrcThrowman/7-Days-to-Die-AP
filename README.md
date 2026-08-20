@@ -33,15 +33,22 @@ Make sure **Easy Anti-Cheat is disabled** when launching 7 Days To Die through S
 
 The Archipelago client requires the game to be running without Easy Anti-Cheat.
 
+## Generating a Multiworld
+
+* Download and configure the included YAML file. (or create your own by choosing "Generate Template Options" on the Archipelago launcher. This will be placed in your `Archipelago>Players>Templates` Folder, as "7 Days To Die.yaml"
+* Place your configured YAML file into your `Archipelago>Players` Folder.
+* In your Archipelago client, choose `Generate`. This will place a generated .zip file under `Archipelago>Output`
+* Upload this output file at [Archipelago's upload page](https://archipelago.gg/start-playing) by choosing `Host Pregenerated game` and choosing your outputted .zip
+
 ## Connecting to an Archipelago World
 
-1. Launch the **7 Days To Die** client through the Archipelago Launcher. Launching the client before the game is highly recommended.
-2. Enter your Archipelago room connection information:
+* Launch the **7 Days To Die** client through the Archipelago Launcher. Launching the client before the game is highly recommended.
+* Enter your Archipelago room connection information:
 
    * Room address
    * Slot name
-   * Password, if required
-3. Connect to the room.
-4. Load into a **fresh save**.
-5. Play normally and receive your Archipelago progression through the client.
+   * Password, if one was set, If not keep it blank.
+* Connect to the room.
+* Load into a **fresh save**.
+* Play normally and receive your Archipelago progression through the client.
 
