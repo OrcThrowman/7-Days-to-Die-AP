@@ -6,6 +6,9 @@
 
 ### Install the APWorld
 
+Grab the Archipelago.rar and APworld from the releases page.
+
+
 You can install the APWorld in either of two ways:
 
 * **Automatic:** Double-click the `.apworld` file and allow Archipelago to install it.
