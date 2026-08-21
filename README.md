@@ -52,3 +52,5 @@ The Archipelago client requires the game to be running without Easy Anti-Cheat.
 * Load into a **fresh save**.
 * Play normally and receive your Archipelago progression through the client.
 
+Minor issues may arise if checks are completed in game while not connected through the client to your room. In the event this happens, a full restart of both the game and client will solve this.
+
