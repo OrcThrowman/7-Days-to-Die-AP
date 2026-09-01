@@ -54,3 +54,18 @@ The Archipelago client requires the game to be running without Easy Anti-Cheat.
 
 Minor issues may arise if checks are completed in game while not connected through the client to your room. In the event this happens, a full restart of both the game and client will solve this.
 
+
+### How the randomizer works
+
+Crafting recipes for all workstations, weapons, armor vehicles and biome progression items are locked behind the multiworld. 
+Check Locations inlude:
+* Quests from the traders
+* Leveling up
+* Challenges
+
+Received items control your ability to craft recipes to progress your game, Such as:
+*Progressive weapon recipes
+*Progressive Workstation unlocks
+*Progressive Armor quality
+
+As of right now, the only implemented goal is to complete 10 Tier 6 quests.
