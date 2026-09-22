@@ -59,7 +59,7 @@ Minor issues may arise if checks are completed in game while not connected throu
 
 Crafting recipes for all workstations, weapons, armor vehicles and biome progression items are locked behind the multiworld. 
 Check Locations inlude:
-* Quests from the traders
+* Quests tiers from traders (tied to progressive biome access items)
 * Leveling up
 * Challenges
 
