@@ -64,8 +64,8 @@ Check Locations inlude:
 * Challenges
 
 Received items control your ability to craft recipes to progress your game, Such as:
-*Progressive weapon recipes
-*Progressive Workstation unlocks
-*Progressive Armor quality
+* Progressive weapon recipes
+* Progressive Workstation unlocks
+* Progressive Armor quality
 
 As of right now, the only implemented goal is to complete 10 Tier 6 quests.
