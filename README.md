@@ -68,4 +68,4 @@ Received items control your ability to craft recipes to progress your game, Such
 * Progressive Workstation unlocks
 * Progressive Armor quality
 
-As of right now, the only implemented goal is to complete 10 Tier 6 quests.
+Goals are configurable through the yaml, all of which require you to complete 10 quests of a selected quest tier.
