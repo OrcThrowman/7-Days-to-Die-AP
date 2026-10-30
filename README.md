@@ -69,3 +69,6 @@ Received items control your ability to craft recipes to progress your game, Such
 * Progressive Armor quality
 
 Goals are configurable through the yaml, all of which require you to complete 10 quests of a selected quest tier.
+
+## AI disclosure
+ I use AI to clean up code and catch mistakes I've made, and to help me pinpoint where problems i come across lie. The AP implementation and design decisions are entirely my own.
